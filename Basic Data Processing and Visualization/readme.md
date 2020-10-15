@@ -1,0 +1,4 @@
+This is the first course in the four-course specialization Python Data Products for Predictive Analytics, introducing the basics of reading and manipulating datasets in Python. In this course, you will learn what a data product is and go through several Python libraries to perform data retrieval, processing, and visualization.
+
+This course will introduce you to the field of data science and prepare you for the next three courses in the Specialization: Design Thinking and Predictive Analytics for Data Products, Meaningful Predictive Modeling, and Deploying Machine Learning Models. At each step in the specialization, you will gain hands-on experience in data manipulation and building your skills, eventually culminating in a capstone project encompassing all the concepts taught in the specialization.
+
