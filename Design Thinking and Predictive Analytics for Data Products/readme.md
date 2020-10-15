@@ -1,0 +1,3 @@
+About this Course
+
+This is the second course in the four-course specialization Python Data Products for Predictive Analytics, building on the data processing covered in Course 1 and introducing the basics of designing predictive models in Python. In this course, you will understand the fundamental concepts of statistical learning and learn various methods of building predictive models. At each step in the specialization, you will gain hands-on experience in data manipulation and building your skills, eventually culminating in a capstone project encompassing all the concepts taught in the specialization.

@@ -1,0 +1,3 @@
+This course will help us to evaluate and compare the models we have developed in previous courses. So far we have developed techniques for regression and classification, but how low should the error of a classifier be (for example) before we decide that the classifier is "good enough"? Or how do we decide which of two regression algorithms is better?
+
+By the end of this course you will be familiar with diagnostic techniques that allow you to evaluate and compare classifiers, as well as performance measures that can be used in different regression and classification scenarios. We will also study the training/validation/test pipeline, which can be used to ensure that the models you develop will generalize well to new (or "unseen") data.
